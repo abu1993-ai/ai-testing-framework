@@ -1,0 +1,5 @@
+total,success,failure_type,count
+57,1,,
+,,FAILED,52
+,,STAGNATION,3
+,,BACKEND_PRICING,1

@@ -1,0 +1,9 @@
+{
+  "total": 59,
+  "success": 1,
+  "failures": {
+    "FAILED": 54,
+    "STAGNATION": 3,
+    "BACKEND_PRICING": 1
+  }
+}
